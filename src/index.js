@@ -1,3 +1,3 @@
-import './jsxstudy/jsxstudy2';
+import './component-basic/props-basic';
 
 
