@@ -1,3 +1,3 @@
-import './component-basic/props-basic';
+import './component-basic/component-make';
 
 
