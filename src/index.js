@@ -1,3 +1,3 @@
-import './component-basic/component-make';
+import './component-intermediate/state-study-user';
 
 
