@@ -1,3 +1,3 @@
-import './component-intermediate/state-study-user';
+import './component-intermediate/counter-demo';
 
 
